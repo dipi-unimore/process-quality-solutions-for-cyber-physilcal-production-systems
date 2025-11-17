@@ -76,7 +76,6 @@ At this step, the Cause-Effect-Network (CEN) of the desired process is built. Us
     </figcaption>
 </div>
 
---
 
 ### Step 3: Validate production conditions with production assets
 
@@ -96,8 +95,6 @@ The relationship existing between physical assets involved in the process, and t
 This first variant depicted above, describes the relationship existing between the input to the process, involved assets, and resulting desired and undesired outcomes, in a summarized view.
 
 In its *expanded* version (below), assets and processes are described with a higher level of granularity, intwgrating (in this case) also potential variants of the system which are taken into consideration to solve the undesired condition of interest of the system.
-
---
 
 <div align="center">
     <img src="assets/images/65-pan-expanded-v0.png" width="600"/>
@@ -203,6 +200,7 @@ Stakeholders:
         ● State
 ```
 
+
 ### Step 4: Validate production conditions with Production Data Space
 
 Assets and properties collected at Step 3 are the taken into account by IT experts to check and validate access to the sources required to monitor the target data for modeling conditions of interest in the digital space. The result of this step is a collection of data sources and associated data points, a list of stakeholders having access to related data sources, and a list of missing data points that can improve the modeling of the system.
@@ -218,6 +216,7 @@ Assets and properties collected at Step 3 are the taken into account by IT exper
         <br>
     </figcaption>
 </div>
+
 
 ### Step 5: Derive BDD scenarios for monitoring conditions
 
